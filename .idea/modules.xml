@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android-custom-listview-with-mage-and-text.iml" filepath="$PROJECT_DIR$/android-custom-listview-with-mage-and-text.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidcustomlistviewwithmageandtext/androidcustomlistviewwithmageandtext.iml" filepath="$PROJECT_DIR$/androidcustomlistviewwithmageandtext/androidcustomlistviewwithmageandtext.iml" />
+    </modules>
+  </component>
+</project>
+
